@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int main(){
-
-	printf("Archivo de prueba laboratorio 3 - testing\n");
-
-	return 0;
-}
